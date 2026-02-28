@@ -1,0 +1,5 @@
+{
+  "name": "Neon Hangman",
+  "description": "A modern, fully-functional Hangman game with Supabase and Clerk Auth.",
+  "requestFramePermissions": []
+}
